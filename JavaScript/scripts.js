@@ -1,3 +1,4 @@
 function convert(minutes) {
-	
-}c
+	let sec = minutes * 60 
+	return sec
+}
