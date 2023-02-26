@@ -8,3 +8,7 @@ function circuitPower(voltage, current) {
 	return voltage * current 
 }
 
+
+function squared(b) {
+	return b * b
+}
