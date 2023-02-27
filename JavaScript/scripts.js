@@ -12,3 +12,8 @@ function circuitPower(voltage, current) {
 function squared(b) {
 	return b * b
 }
+
+
+function triArea(base, height) {
+	return (base * height) / 2
+}
